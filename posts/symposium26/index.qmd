@@ -1,7 +1,7 @@
 ---
 title: "Annual Imaging Symposium"
 description: "The annual imaging symposium"
-author: "Event"
+author: "Tristan van Leeuwen"
 date: "2026-02-20"
 categories: [event]
 image: "/files/images/placeholder2.JPG"

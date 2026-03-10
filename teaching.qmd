@@ -1,11 +1,11 @@
 ---
-title: "Teaching"
-subtitle: "I teach."
+title: "Courses"
+subtitle: "An overview of courses on imaging"
 title-block-banner: false
 ---
 
 
-## Class 1
+## Inverse Problems in Imaging (Utrecht U.)
 
 ::: {.grid}
 
@@ -16,49 +16,9 @@ title-block-banner: false
 
 ::: {.g-col-12 .g-col-md-10}
 
-[Fall 2024](https://www.google.com), &nbsp; [Fall 2023](https://www.google.com)
+[Spring 2026](https://elo.mastermath.nl/mod/page/view.php?id=333)
 
-Class 1 introduction.
-
-:::
-
-:::
-
-
-## Class 2
-
-::: {.grid}
-
-::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder2.JPG)
-
-:::
-
-::: {.g-col-12 .g-col-md-10}
-
-[Spring 2025](https://www.google.com), &nbsp; [Fall 2023](https://www.google.com)
-
-Class 2 introduction.
-
-:::
-
-:::
-
-
-## Class 3
-
-::: {.grid}
-
-::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder3.JPG)
-
-:::
-
-::: {.g-col-12 .g-col-md-10}
-
-[Spring 2025](https://www.google.com), &nbsp; [Spring 2024](https://www.google.com)
-
-Class 3 introduction. 
+This course is about inverse problems in imaging. The mathematical reconstruction and processing of images is of fundamental importance in state of the art applications in health and geosciences, e.g. in medical tomography, in high-resolution microscopy or in geophysical inversion. In many cases, underlying inverse problems can be formulated and solved using variational methods and partial differential equations. This course offers a theoretical as well as an applied insight into inverse problems and variational methods for mathematical imaging. It addresses reconstruction problems of different imaging modalities (e.g. CT or PET) in biomedicine and geophysics. 
 
 :::
 

@@ -2,17 +2,34 @@
       image: "https://amolf.nl/portraits/3451706c99c0723f06d494814acab98a0450214d27f8aaccc5f2f4032020d0dc.jpg"
       title: "Wiebke Albrecht"
       subtitle: "AMOLF"
-#      author: 
-#      date: "2024-03-12"
       categories: [board] 
       started: "2024"
-      ended: "2025"
+      ended: ""
     - path: https://www.cwi.nl/en/people/alexander-skorikov/
       image: "https://www.cwi.nl/intranet/faces/3505.jpg"
       title: "Alexander Skorikov"
       subtitle: "CWI"
-#      author: 
-#      date: "2024-03-12"
       categories: [board] 
       started: "2024"
-      ended: "2025"
+      ended: ""
+    - path: https://www.linkedin.com/in/nikolai-orlov/
+      image: "https://media.licdn.com/dms/image/v2/C4E03AQEG7DSNWbxMrA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1608655740925?e=1774483200&v=beta&t=pXegild8CXIzHHeAWqgUhMlq1rixa2tApl7ndPO5rwQ"
+      title: "Nikolai Orlov"
+      subtitle: "AMOLF"
+      categories: [board] 
+      started: "2024"
+      ended: ""
+    - path: https://vu.nl/en/stories/matz-liebel
+      image: "https://dutchphysicscouncil.nl/wp-content/uploads/2025/12/MatzLiebel_VU-kopie2.png"
+      title: "Matz Liebel"
+      subtitle: "VU"
+      categories: [board] 
+      started: "2024"
+      ended: ""
+    - path: https://www.cwi.nl/en/people/tristan-van-leeuwen/
+      image: "https://www.cwi.nl/intranet/faces/2675.jpg"
+      title: "Tristan van Leeuwen"
+      subtitle: "CWI"
+      categories: [board] 
+      started: "2024"
+      ended: ""
