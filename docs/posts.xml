@@ -52,13 +52,13 @@ https://quarto.org/docs/authoring/includes.html
   <title>Imaging lecture</title>
   <link>https://drganghe.github.io/quarto-academic-website-template/</link>
   <description>The next imaging luch will take place on April 17th at AMOLF.</description>
-  <category>news</category>
+  <category>event</category>
   <guid>https://drganghe.github.io/quarto-academic-website-template/</guid>
   <pubDate>Mon, 09 Mar 2026 23:00:00 GMT</pubDate>
   <media:content url="https://drganghe.github.io/quarto-academic-website-template/files/images/placeholder1.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
-  <title>Event item</title>
+  <title>Annual Imaging Symposium</title>
   <dc:creator>Event </dc:creator>
   <link>https://drganghe.github.io/quarto-academic-website-template/posts/event-title/</link>
   <description><![CDATA[ 
@@ -66,7 +66,20 @@ https://quarto.org/docs/authoring/includes.html
 
 
 
-<p><a href="https://drganghe.github.io/quarto-academic-website-template/"><img src="https://drganghe.github.io/quarto-academic-website-template/files/images/placeholder2.JPG" class="img-fluid" style="width:90.0%"></a></p>
+<p>The annual imaging symposium took place on February 20th at the VU.</p>
+<section id="program" class="level1">
+<h1>Program</h1>
+<p>9.30 – 9.45 - Walk in coffee</p>
+<p>9.45 – 10.00 - Introduction</p>
+<p>10:00 – 10:30 - Daniela Huppenkothen (UvA) Imaging in Astronomy</p>
+<p>10:30 – 11:00 - Peter Kraus (ARCNL) When Resolution Is (Not) Everything: Imaging Complex Materials and Devices</p>
+<p>11:00 – 11:30 - Short break</p>
+<p>11:30 – 12:00 - Martijn de Bruin (Amsterdam UMC) Imaging Tomorrow: How Technology Is Redefining Diagnosis and therapy</p>
+<p>12:00 – 14:30 - Lunch Break &amp; Posters</p>
+<p>14:30 – 15:00 - Kristina Ganzinger (AMOLF) Live microscopy: cracking the challenge to image biology unfolding in cells, tissues and organoids</p>
+<p>15:00 – 15:30 - Mason Scholte (UvA) Practical imaging in archaeology: Examples from the 4D Research Lab</p>
+<p>15:30 – 16:00 - Brainstorm session “Building the Hub:” Events, Education, etc.</p>
+<p>16:00 – 17:00 - Borrel &amp; Posters</p>
 <!--Include social share buttons-->
 <!-- 
 AddToAny check more: https://www.addtoany.com/buttons/for/website 
@@ -79,6 +92,7 @@ https://quarto.org/docs/authoring/includes.html
 <script async="" src="https://static.addtoany.com/menu/page.js"></script>
 
 
+</section>
 
  ]]></description>
   <category>event</category>

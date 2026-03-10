@@ -4,7 +4,7 @@
     "href": "posts.html",
     "title": "What’s New & Updated",
     "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nImaging Hub Website launched\n\n\n\n\n\n\nnews\n\n\n\nThe Imaging Hub website has been launched!\n\n\n\n\n\nMar 10, 2026\n\n\nNews\n\n\n\n\n\n\n\n\n\n\n\n\nImaging lecture\n\n\n\n\n\n\nnews\n\n\n\nThe next imaging luch will take place on April 17th at AMOLF.\n\n\n\n\n\nMar 10, 2026\n\n\nDr. Gang He\n\n\n\n\n\n\n\n\n\n\n\n\nAnnual Imaging Symposium\n\n\n\n\n\n\nevent\n\n\n\nThe annual imaging symposium\n\n\n\n\n\nFeb 20, 2026\n\n\nEvent\n\n\n\n\n\n\n\n\n\n\n\n\nCan quantum-mechanical description of physical reality be considered complete?\n\n\nPhysical Review\n\n\n\npaper\n\n\n\nOne is thus led to conclude that the description of reality as given by a wave function is not complete.\n\n\n\n\n\nMay 15, 1935\n\n\nAlbert Einstein, Boris Podolsky, Nathan Rosen\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nImaging Hub Website launched\n\n\n\n\n\n\nnews\n\n\n\nThe Imaging Hub website has been launched!\n\n\n\n\n\nMar 10, 2026\n\n\nNews\n\n\n\n\n\n\n\n\n\n\n\n\nImaging lecture\n\n\n\n\n\n\nevent\n\n\n\nThe next imaging luch will take place on April 17th at AMOLF.\n\n\n\n\n\nMar 10, 2026\n\n\nDr. Gang He\n\n\n\n\n\n\n\n\n\n\n\n\nAnnual Imaging Symposium\n\n\n\n\n\n\nevent\n\n\n\nThe annual imaging symposium\n\n\n\n\n\nFeb 20, 2026\n\n\nEvent\n\n\n\n\n\n\n\n\n\n\n\n\nCan quantum-mechanical description of physical reality be considered complete?\n\n\nPhysical Review\n\n\n\npaper\n\n\n\nOne is thus led to conclude that the description of reality as given by a wave function is not complete.\n\n\n\n\n\nMay 15, 1935\n\n\nAlbert Einstein, Boris Podolsky, Nathan Rosen\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications.html",
@@ -116,7 +116,7 @@
     "href": "index.html#recent-posts",
     "title": "Amsterdam Imaging Hub",
     "section": "Recent Posts",
-    "text": "Recent Posts\nCheck out the latest  Papers ,  News ,  Events , and  More »\n\n\n\n\n\n\n\n\n\n\nImaging Hub Website launched\n\n\n\nMar 10, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nImaging lecture\n\n\n\nMar 10, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnnual Imaging Symposium\n\n\n\nFeb 20, 2026\n\n\n\n\n\n\nNo matching items\n\n\nAll Posts »"
+    "text": "Recent Posts\n\n\n\n\n\n\n\n\n\n\nImaging Hub Website launched\n\n\n\nMar 10, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nImaging lecture\n\n\n\nMar 10, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnnual Imaging Symposium\n\n\n\nFeb 20, 2026\n\n\n\n\n\n\nNo matching items\n\n\nAll Posts »"
   },
   {
     "objectID": "people.html",
@@ -152,5 +152,12 @@
     "title": "People",
     "section": "Ambassadors",
     "text": "Ambassadors"
+  },
+  {
+    "objectID": "posts/event-title/index.html",
+    "href": "posts/event-title/index.html",
+    "title": "Annual Imaging Symposium",
+    "section": "",
+    "text": "The annual imaging symposium took place on February 20th at the VU.\n\nProgram\n9.30 – 9.45 - Walk in coffee\n9.45 – 10.00 - Introduction\n10:00 – 10:30 - Daniela Huppenkothen (UvA) Imaging in Astronomy\n10:30 – 11:00 - Peter Kraus (ARCNL) When Resolution Is (Not) Everything: Imaging Complex Materials and Devices\n11:00 – 11:30 - Short break\n11:30 – 12:00 - Martijn de Bruin (Amsterdam UMC) Imaging Tomorrow: How Technology Is Redefining Diagnosis and therapy\n12:00 – 14:30 - Lunch Break & Posters\n14:30 – 15:00 - Kristina Ganzinger (AMOLF) Live microscopy: cracking the challenge to image biology unfolding in cells, tissues and organoids\n15:00 – 15:30 - Mason Scholte (UvA) Practical imaging in archaeology: Examples from the 4D Research Lab\n15:30 – 16:00 - Brainstorm session “Building the Hub:” Events, Education, etc.\n16:00 – 17:00 - Borrel & Posters"
   }
 ]
