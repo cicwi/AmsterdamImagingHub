@@ -3,7 +3,7 @@
     "listing": "/posts.html",
     "items": [
       "/posts/news-title/index.html",
-      "/posts/event-title/index.html",
+      "/posts/symposium26/index.html",
       "/posts/paper-title/index.html"
     ]
   },
@@ -15,7 +15,7 @@
     "listing": "/index.html",
     "items": [
       "/posts/news-title/index.html",
-      "/posts/event-title/index.html",
+      "/posts/symposium26/index.html",
       "/posts/paper-title/index.html"
     ]
   },
