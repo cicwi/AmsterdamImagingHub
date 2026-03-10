@@ -1,15 +1,17 @@
 ---
-title: "Event item"
-description: "About Event item."
+title: "Annual Imaging Symposium"
+description: "The annual imaging symposium"
 author: "Event"
-date: "2024-09-03"
-categories: [event, presentation]
+date: "2026-02-20"
+categories: [event]
 image: "/files/images/placeholder2.JPG"
 #css: /custom.css
 #draft: true
 ---
 
-[![](/files/images/placeholder2.JPG){width="90%"}](https://drganghe.github.io/quarto-academic-website-template/)
+The annual imaging symposium took place on February 20th at the VU.
+
+# Program
 
 
 <!--Include social share buttons-->

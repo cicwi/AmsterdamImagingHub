@@ -1,0 +1,18 @@
+    - path: https://amolf.nl/people/wiebke-albrecht
+      image: "https://amolf.nl/portraits/3451706c99c0723f06d494814acab98a0450214d27f8aaccc5f2f4032020d0dc.jpg"
+      title: "Wiebke Albrecht"
+      subtitle: "AMOLF"
+#      author: 
+#      date: "2024-03-12"
+      categories: [board] 
+      started: "2024"
+      ended: "2025"
+    - path: https://www.cwi.nl/en/people/alexander-skorikov/
+      image: "https://www.cwi.nl/intranet/faces/3505.jpg"
+      title: "Alexander Skorikov"
+      subtitle: "CWI"
+#      author: 
+#      date: "2024-03-12"
+      categories: [board] 
+      started: "2024"
+      ended: "2025"

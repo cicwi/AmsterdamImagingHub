@@ -1,0 +1,9 @@
+    - path: https://arcnl.nl/people/lyuba-amitonova
+      image: "https://arcnl.nl/portraits/10680154b8ad8ec3b02164126ba8d39b782a93472dffaa08db99679364f5c8e7.jpg"
+      title: "Lyuba Amitonova"
+      subtitle: "ARCNL"
+#      author: 
+#      date: "2024-03-12"
+      categories: [ambassador] 
+      started: "2024"
+      ended: "2025"
