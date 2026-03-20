@@ -1,7 +1,7 @@
 ---
 title: "Amsterdam Imaging Hub"
 description-meta: "The Amsterdam Imaging Hub"
-image: "files/images/placeholder4.JPG"
+image: "/files/images/aih_logo.svg"
 page-navigation: false
 toc: false
 #sidebar: false

@@ -4,7 +4,7 @@ description: "The Imaging Hub website has been launched!"
 author: "News"
 date: "2026-03-10"
 categories: [news]
-image: "/files/images/placeholder3.JPG"
+image: "/files/images/aih_logo_notext.svg"
 #css: /custom.css
 #draft: true
 ---
