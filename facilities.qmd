@@ -1,32 +1,29 @@
 ---
-title: "Projects"
-subtitle: "An overview of running projects in the community"
+title: "Facilities"
+subtitle: "An overview of available facilities"
 page-layout: full
 listing: 
 - id: projects
   sort: "started desc"
   type: table
-  fields: [image, title, author, subtitle, description, funding, started, ended]
+  fields: [image, title, author, subtitle, description]
   grid-item-align: left
   grid-columns: 3
   image-height: 30px
   field-display-names: 
       title: "Title"
-      author: "Team"
-      subtitle: "Funder"
-      started: "Start"
-      ended: "End"
-      funding: "Funding"
+      author: "Contact"
+      subtitle: "Modality"
 #  categories: true
 #  sort-ui: true
 #  filter-ui: true
   contents: 
 #    - projects/ 
-    - projects.yml 
+    - facilities.yml 
 ---
 
 
-:::{#projects}
+:::{#facilities}
 :::
 
 

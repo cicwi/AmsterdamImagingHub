@@ -9,7 +9,7 @@
 <meta name="author" content="Dr.&nbsp;Gang He">
 <meta name="description" content="Amsterdam Imaging Hub">
 
-<title>Projects – Amsterdam Imaging Hub</title>
+<title>Facilities – Amsterdam Imaging Hub</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -83,9 +83,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-image','listing-title','listing-author','listing-subtitle','listing-description','listing-funding','listing-started','listing-ended',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-title-sort'] }],
+      valueNames: ['listing-image','listing-title','listing-author','listing-subtitle','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-title-sort'] }],
       
-      searchColumns: ["listing-image","listing-title","listing-author","listing-subtitle","listing-description","listing-started","listing-ended","listing-funding"],
+      searchColumns: ["listing-image","listing-title","listing-author","listing-subtitle","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -163,13 +163,13 @@ window.Quarto = {
 </script>
 
 <link rel="stylesheet" href="styles.css">
-<meta property="og:title" content="Projects – Amsterdam Imaging Hub">
-<meta property="og:description" content="An overview of running projects in the community">
-<meta property="og:image" content="https://nsf-gov-resources.nsf.gov/styles/featured_content_tablet/s3/2023-10/NSF_Official_logo_Med_Res_600ppi_rectangle.png">
+<meta property="og:title" content="Facilities – Amsterdam Imaging Hub">
+<meta property="og:description" content="An overview of available facilities">
+<meta property="og:image" content="https://quarto.org/quarto.png">
 <meta property="og:site_name" content="Amsterdam Imaging Hub">
-<meta name="twitter:title" content="Projects – Amsterdam Imaging Hub">
-<meta name="twitter:description" content="An overview of running projects in the community">
-<meta name="twitter:image" content="https://nsf-gov-resources.nsf.gov/styles/featured_content_tablet/s3/2023-10/NSF_Official_logo_Med_Res_600ppi_rectangle.png">
+<meta name="twitter:title" content="Facilities – Amsterdam Imaging Hub">
+<meta name="twitter:description" content="An overview of available facilities">
+<meta name="twitter:image" content="https://quarto.org/quarto.png">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
@@ -261,8 +261,8 @@ window.Quarto = {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Projects</h1>
-<p class="subtitle lead">An overview of running projects in the community</p>
+<h1 class="title">Facilities</h1>
+<p class="subtitle lead">An overview of available facilities</p>
 </div>
 
 
@@ -279,7 +279,24 @@ window.Quarto = {
 </header>
 
 
-<div id="listing-projects" class="quarto-listing quarto-listing-container-table">
+<div id="facilities">
+
+</div>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+
+
+<div class="quarto-listing quarto-listing-container-table" id="listing-projects">
 <div class="listing-actions-group">
    <div class="input-group input-group-sm quarto-listing-sort">
     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
@@ -292,22 +309,13 @@ window.Quarto = {
         Title
       </option>
       <option value="listing-author" data-direction="asc">
-        Team
+        Contact
       </option>
       <option value="listing-subtitle" data-direction="asc">
-        Funder
+        Modality
       </option>
       <option value="listing-description" data-direction="asc">
         Description
-      </option>
-      <option value="listing-started" data-direction="asc">
-        Start
-      </option>
-      <option value="listing-ended" data-direction="asc">
-        End
-      </option>
-      <option value="listing-funding" data-direction="asc">
-        Funding
       </option>
     </select>
   </div>
@@ -329,57 +337,36 @@ window.Quarto = {
 </th>
 
 <th>
-<a class="sort" data-sort="listing-author" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Team</a>
+<a class="sort" data-sort="listing-author" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Contact</a>
 </th>
 
 <th>
-<a class="sort" data-sort="listing-subtitle" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Funder</a>
+<a class="sort" data-sort="listing-subtitle" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Modality</a>
 </th>
 
 <th>
 <a class="sort" data-sort="listing-description" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Description</a>
 </th>
 
-<th>
-<a class="sort" data-sort="listing-funding" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Funding</a>
-</th>
-
-<th>
-<a class="sort" data-sort="listing-started" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Start</a>
-</th>
-
-<th>
-<a class="sort" data-sort="listing-ended" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">End</a>
-</th>
-
 </tr>
 </thead>
 <tbody class="list">
 
-<tr data-index="0" data-listing-title-sort="Exploring ">
+<tr data-index="0" data-listing-title-sort="FleX-ray laboratory">
 <td>
-<span class="listing-image"><img loading="lazy" src="https://nsf-gov-resources.nsf.gov/styles/featured_content_tablet/s3/2023-10/NSF_Official_logo_Med_Res_600ppi_rectangle.png" style="height: 30px;"></span>
+<span class="listing-image"><img loading="lazy" src="https://www.cwi.nl/images/45069/CWI_algemeen_2022_09_06-129.width-768.jpg" style="height: 30px;"></span>
 </td>
 <td>
-<a href="https://www.nsf.gov/" class="title listing-title">Exploring </a>
+<a href="https://www.cwi.nl/en/collaboration/labs/flex-ray-lab/" class="title listing-title">FleX-ray laboratory</a>
 </td>
 <td>
-<span class="listing-author">Academic Website</span>
+<span class="listing-author">Tristan van Leeuwen</span>
 </td>
 <td>
-<span class="listing-subtitle">Funder</span>
+<span class="listing-subtitle">X-ray microCT</span>
 </td>
 <td>
-<span class="listing-description">The goal of this project is to investigate .</span>
-</td>
-<td>
-<span class="listing-funding">$0</span>
-</td>
-<td>
-<span class="listing-started">2024</span>
-</td>
-<td>
-<span class="listing-ended">2025</span>
+<span class="listing-description">Versatile microCT scanner.</span>
 </td>
 
 </tr>
@@ -387,22 +374,7 @@ window.Quarto = {
 </tbody>
 </table>
 <div class="listing-no-matching d-none">No matching items</div>
-</div>
-<!--Include social share buttons-->
-<!-- 
-AddToAny check more: https://www.addtoany.com/buttons/for/website 
-Using includes will make edits easier, will only need to add or remove button here if needed.
-https://quarto.org/docs/authoring/includes.html
--->
-<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
-</div>
-<script async="" src="https://static.addtoany.com/menu/page.js"></script>
-
-
-
-
-</main> <!-- /main -->
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

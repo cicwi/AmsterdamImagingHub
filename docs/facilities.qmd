@@ -1,6 +1,6 @@
 ---
 title: "Projects"
-subtitle: "An overview of running projects in the community"
+subtitle: "Funded projects"
 page-layout: full
 listing: 
 - id: projects

@@ -23,12 +23,10 @@ website:
         href: posts.qmd#category=event
       - text: Research
         menu:
-          - text: List of Publications
-            href: publications.qmd
-          - text: Selected Papers
-            href: posts.qmd#category=paper
-          - text: Grants
-            href: projects.qmd                                
+          - text: Projects
+            href: projects.qmd
+          - text: Facilities
+            href: facilities.qmd                                
       - text: Courses # Comment the Teaching part out to remove the Teaching page
         href: teaching.qmd               
       - text: People   # Comment the Group part out to remove the Group page
