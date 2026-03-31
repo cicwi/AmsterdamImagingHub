@@ -37,7 +37,7 @@ website:
         href: https://github.com/cicwi/AmsterdamImagingHub
         target: _blank
       - text: "{{< fa brands linkedin >}}"
-        href: https://bsky.app
+        href: https://www.linkedin.com/groups/13180498/
         target: _blank      
       - icon: rss
         href: posts.xml
