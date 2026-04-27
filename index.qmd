@@ -27,7 +27,13 @@ listing:
 
 :::{#hero-heading}
 
-The Amsterdam Imaging Hub ...
+The Amsterdam Imaging Hub was founded by researchers from AMOLF and Centrum Wiskunde & Informatica (CWI), later joined by colleagues from Vrije Universiteit Amsterdam (VU). We work in many different domains across physics, materials science, and computer vision and are all united by a powerful common thread: reliance on imaging. We recognized that powerful imaging methods were being developed across all disciplines but often in isolation rather than being shared across fields.
+
+We created this community to fix that gap.
+
+Our goal is straightforward: connect people working with imaging across Amsterdam and enable real exchange and promotion of practical knowledge, tools, and expertise.
+
+So far, we have organized three Imaging Symposia that brought together more than a hundred researchers from astronomy, computational imaging, physics, archaeology, materials science, medicine, biology, and electron microscopy. In addition, we organize hands-on tutorials and Imaging Lunches, fostering learning of the latest developments in the field and building new collaborations.
 
 :::
 

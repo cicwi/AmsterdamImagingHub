@@ -95,7 +95,7 @@
     "href": "index.html",
     "title": "Amsterdam Imaging Hub",
     "section": "",
-    "text": "The Amsterdam Imaging Hub …"
+    "text": "The Amsterdam Imaging Hub was founded by researchers from AMOLF and Centrum Wiskunde & Informatica (CWI), later joined by colleagues from Vrije Universiteit Amsterdam (VU). We work in many different domains across physics, materials science, and computer vision and are all united by a powerful common thread: reliance on imaging. We recognized that powerful imaging methods were being developed across all disciplines but often in isolation rather than being shared across fields.\nWe created this community to fix that gap.\nOur goal is straightforward: connect people working with imaging across Amsterdam and enable real exchange and promotion of practical knowledge, tools, and expertise.\nSo far, we have organized three Imaging Symposia that brought together more than a hundred researchers from astronomy, computational imaging, physics, archaeology, materials science, medicine, biology, and electron microscopy. In addition, we organize hands-on tutorials and Imaging Lunches, fostering learning of the latest developments in the field and building new collaborations."
   },
   {
     "objectID": "index.html#experience",
@@ -179,6 +179,6 @@
     "href": "facilities.html",
     "title": "Facilities",
     "section": "",
-    "text": "Order By\n      Default\n      \n      \n      \n        Title\n      \n      \n        Contact\n      \n      \n        Modality\n      \n      \n        Description\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nTitle\n\n\n\nContact\n\n\n\nModality\n\n\n\nDescription\n\n\n\n\n\n\n\n\n\n\n\nFleX-ray laboratory\n\n\nTristan van Leeuwen\n\n\nX-ray microCT\n\n\nVersatile microCT scanner.\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n      Default\n      \n      \n      \n        Title\n      \n      \n        Contact\n      \n      \n        Modality\n      \n      \n        Description\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nTitle\n\n\n\nContact\n\n\n\nModality\n\n\n\nDescription\n\n\n\n\n\n\n\n\n\n\n\nFleX-ray laboratory\n\n\nTristan van Leeuwen\n\n\nX-ray microCT\n\n\nVersatile microCT scanner.\n\n\n\n\n\n\n \n\n\nJEOL NeoARM (S)TEM\n\n\nWiebke Atmer\n\n\nElectron microscopy\n\n\natomic-resolution (S)TEM (0.082 nm STEM, 0.14 nm TEM) with Cs correction and CFEG. Unique features: IDES laser incoupling (NKT supercontinuum, 400–840 nm, tunable repetition rate) with synchronized ns beam blanking, ASI Timepix3 4D-STEM event-driven detector, wide-gap pole piece for a broad range of in situ holders, and EDX. Open-access facility for academic and industrial users.\n\n\n\n\n\n\n \n\n\nFEI Helios Nanolab 600 (SEM/FIB)\n\n\nWiebke Atmer\n\n\nElectron microscopy\n\n\ndual-beam SEM with Ga focused ion beam and gas injectors (Pt, C, SiO₂ deposition; XeF₂ enhanced etch) for nanofabrication and cross-sectioning.\n\n\n\n\n\n\n \n\n\nFEI Verios 460\n\n\nWiebke Atmer\n\n\nElectron microscopy\n\n\nhigh-resolution SEM (nm-scale) with EDS, EBSD, STEM-in-SEM detector, monochromator for low energy spread (&lt;0.2 eV), and a homebuilt EBIC detector.\n\n\n\n\n\n\nNo matching items"
   }
 ]

@@ -1,10 +1,49 @@
 
     - path: https://www.cwi.nl/en/collaboration/labs/flex-ray-lab/
       image: https://www.cwi.nl/images/45069/CWI_algemeen_2022_09_06-129.width-768.jpg
-      title: "FleX-ray laboratory"
+      title: "FleX-ray scanner"
       author: Tristan van Leeuwen
       subtitle: "X-ray microCT"
       description: "Versatile microCT scanner."
-#      date: "2022-10-26"
-#      categories: [] 
-
+    - path: 
+      image: 
+      title: "JEOL NeoARM (S)TEM"
+      author: Wiebke Albrecht
+      subtitle: "Electron microscopy"
+      description: "atomic-resolution (S)TEM (0.082 nm STEM, 0.14 nm TEM) with Cs correction and CFEG. Unique features: IDES laser incoupling (NKT supercontinuum, 400–840 nm, tunable repetition rate) with synchronized ns beam blanking, ASI Timepix3 4D-STEM event-driven detector, wide-gap pole piece for a broad range of in situ holders, and EDX. Open-access facility for academic and industrial users."
+    - path: 
+      image: 
+      title: "FEI Helios Nanolab 600 (SEM/FIB)"
+      author: Wiebke Albrecht
+      subtitle: "Electron microscopy"
+      description: "dual-beam SEM with Ga focused ion beam and gas injectors (Pt, C, SiO₂ deposition; XeF₂ enhanced etch) for nanofabrication and cross-sectioning."
+    - path: 
+      image: 
+      title: "FEI Verios 460"
+      author: Wiebke Albrecht
+      subtitle: "Electron microscopy"
+      description: "high-resolution SEM (nm-scale) with EDS, EBSD, STEM-in-SEM detector, monochromator for low energy spread (<0.2 eV), and a homebuilt EBIC detector."
+    # - path: 
+    #   image: 
+    #   title: ""
+    #   author: 
+    #   subtitle: ""
+    #   description: ""
+    # - path: 
+    #   image: 
+    #   title: ""
+    #   author: 
+    #   subtitle: ""
+    #   description: ""
+    # - path: 
+    #   image: 
+    #   title: ""
+    #   author: 
+    #   subtitle: ""
+    #   description: ""    
+    # - path: 
+    #   image: 
+    #   title: ""
+    #   author: 
+    #   subtitle: ""
+    #   description: ""
