@@ -15,10 +15,8 @@ website:
     background: light
 
     left:
-      - text: News
-        href: posts.qmd#category=news
-      - text: Events
-        href: posts.qmd#category=event
+      - text: News & Events
+        href: posts.qmd
       - text: Facilities
         href: facilities.qmd
       - text: Courses

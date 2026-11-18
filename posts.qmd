@@ -1,12 +1,11 @@
 ---
-title: "What’s New & Updated"
-subtitle: "Posts about papers, events, news, and more"
-description-meta: "Posts about papers, events, news, and more"
+title: "News & Events"
+subtitle: "Updates from the Amsterdam Imaging Hub"
+description-meta: "News and events from the Amsterdam Imaging Hub"
 listing: 
   sort: "date desc"
   type: default
   page-size: 100
-  categories: true
   sort-ui: true
   filter-ui: true
   feed: true
