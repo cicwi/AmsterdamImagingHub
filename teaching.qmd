@@ -10,7 +10,7 @@ title-block-banner: false
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder1.jpg)
+![](files/images/placeholder1.JPG)
 
 :::
 

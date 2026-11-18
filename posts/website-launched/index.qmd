@@ -1,7 +1,6 @@
 ---
 title: "Imaging Hub Website launched"
 description: "The Imaging Hub website has been launched!"
-author: "News"
 date: "2026-03-10"
 categories: [news]
 image: "/files/images/aih_logo_notext.svg"
@@ -13,7 +12,3 @@ image: "/files/images/aih_logo_notext.svg"
 ## Summary
 
 On the website you will find information on events, expertise and facilities available in the community, and relevant courses on imaging.
-
-<!--Include social share buttons-->
-
-{{< include /files/includes/_socialshare.qmd >}}

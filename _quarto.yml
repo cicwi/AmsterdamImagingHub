@@ -4,39 +4,30 @@ project:
 
 # Meta
 description-meta: "Amsterdam Imaging Hub"
-author-meta: "Dr. Gang He"
+author-meta: "Amsterdam Imaging Hub"
 
 website:
   title: "Amsterdam Imaging Hub"
-  image: "https://quarto.org/quarto.png"
+  image: "/files/images/aih_logo_notext.svg"
   description: "Amsterdam Imaging Hub"
  
   navbar:
-    background: light  # You can change the background color here
+    background: light
 
-    left:   # You can comment out all navigation items here if you just like to keep the index page only
-#      - text: Home
-#        href: index.qmd   
+    left:
       - text: News
         href: posts.qmd#category=news
       - text: Events
         href: posts.qmd#category=event
-      - text: Research
-        menu:
-          - text: Projects
-            href: projects.qmd
-          - text: Facilities
-            href: facilities.qmd                                
-      - text: Courses # Comment the Teaching part out to remove the Teaching page
-        href: teaching.qmd               
-      - text: People   # Comment the Group part out to remove the Group page
+      - text: Facilities
+        href: facilities.qmd
+      - text: Courses
+        href: teaching.qmd
+      - text: People
         href: people.qmd
   
     right: 
-      - icon: github
-        href: https://github.com/cicwi/AmsterdamImagingHub
-        target: _blank
-      - text: "{{< fa brands linkedin >}}"
+      - icon: linkedin
         href: https://www.linkedin.com/groups/13180498/
         target: _blank      
       - icon: rss
@@ -45,20 +36,16 @@ website:
   
   page-navigation: true
   
-  page-footer: 
-    left: "[Your Name](http://www.github.com) &copy; <script>document.write(new Date().getFullYear())</script>" 
-    center: "Build on [Quarto Academic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io)"
-    right:  
-      - icon: github
-        href: https://github.com/drganghe/quarto-academic-website-template
-        target: _blank
-      - text: "{{< fa brands bluesky >}}" 
-        href: https://bsky.app
+  page-footer:
+    left: "Amsterdam Imaging Hub &copy; <script>document.write(new Date().getFullYear())</script>"
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/groups/13180498/
         target: _blank
       - icon: rss
         href: posts.xml
-        target: _blank  
-  
+        target: _blank
+
   search:
     location: navbar
     type: textbox
@@ -67,7 +54,6 @@ website:
 
   draft-mode: unlinked
   
-  repo-url: https://github.com/drganghe/quarto-academic-website-template
 #  repo-actions: [edit, issue, source]
   
   open-graph: true
@@ -75,13 +61,8 @@ website:
   twitter-card: true 
 #  card-style: summary      
   
-  site-url: "https://drganghe.github.io/quarto-academic-website-template"
+  site-url: "https://cicwi.github.io/AmsterdamImagingHub"
   
-  google-analytics:
-    tracking-id: ""  # Please delete or replace with your own tracking ID
-    anonymize-ip: true 
-
-bibliography: references.bib  # Add references.bib to the root folder to enable the bibliography function
 
 format:
   html:
@@ -96,6 +77,4 @@ format:
     link-external-icon: false
     link-external-newwindow: true
     email-obfuscation: javascript
-    link-external-filter: '^(?:http:|https:)\/\/drganghe\.github\.io\/custom'
-    include-in-header: "files/includes/_academic.qmd"
 

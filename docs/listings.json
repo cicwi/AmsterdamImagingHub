@@ -2,29 +2,27 @@
   {
     "listing": "/posts.html",
     "items": [
-      "/posts/news-title/index.html",
-      "/posts/symposium26/index.html",
-      "/posts/paper-title/index.html"
+      "/posts/website-launched/index.html",
+      "/posts/symposium26/index.html"
     ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/website-launched/index.html",
+      "/posts/symposium26/index.html"
+    ]
+  },
+  {
+    "listing": "/facilities.html",
+    "items": []
   },
   {
     "listing": "/projects.html",
     "items": []
   },
   {
-    "listing": "/index.html",
-    "items": [
-      "/posts/news-title/index.html",
-      "/posts/symposium26/index.html",
-      "/posts/paper-title/index.html"
-    ]
-  },
-  {
     "listing": "/people.html",
-    "items": []
-  },
-  {
-    "listing": "/facilities.html",
     "items": []
   }
 ]

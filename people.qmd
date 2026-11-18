@@ -41,10 +41,6 @@ listing:  #an example of listing external links
 page-navigation: false
 title-block-banner: false
 toc: false
-
-format:
-  html:
-    link-external-newwindow: true
 ---
 
 
@@ -56,6 +52,6 @@ format:
 
 ## Ambassadors
 
-:::{#ambassador}
+:::{#ambassadors}
 :::
 

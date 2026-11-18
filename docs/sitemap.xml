@@ -1,51 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://drganghe.github.io/quarto-academic-website-template/posts.html</loc>
-    <lastmod>2026-03-10T09:36:22.027Z</lastmod>
+    <loc>https://cicwi.github.io/AmsterdamImagingHub/posts.html</loc>
+    <lastmod>2026-11-18T14:55:25.937Z</lastmod>
   </url>
   <url>
-    <loc>https://drganghe.github.io/quarto-academic-website-template/publications.html</loc>
-    <lastmod>2026-03-10T09:36:22.035Z</lastmod>
+    <loc>https://cicwi.github.io/AmsterdamImagingHub/index.html</loc>
+    <lastmod>2026-11-18T14:57:48.780Z</lastmod>
   </url>
   <url>
-    <loc>https://drganghe.github.io/quarto-academic-website-template/projects.html</loc>
-    <lastmod>2026-03-20T10:57:13.203Z</lastmod>
+    <loc>https://cicwi.github.io/AmsterdamImagingHub/facilities.html</loc>
+    <lastmod>2026-11-18T15:13:59.241Z</lastmod>
   </url>
   <url>
-    <loc>https://drganghe.github.io/quarto-academic-website-template/posts/news-title/index.html</loc>
-    <lastmod>2026-03-20T10:40:56.010Z</lastmod>
+    <loc>https://cicwi.github.io/AmsterdamImagingHub/posts/website-launched/index.html</loc>
+    <lastmod>2026-11-18T15:13:59.241Z</lastmod>
   </url>
   <url>
-    <loc>https://drganghe.github.io/quarto-academic-website-template/posts/paper-title/index.html</loc>
-    <lastmod>2026-03-10T09:36:22.034Z</lastmod>
+    <loc>https://cicwi.github.io/AmsterdamImagingHub/teaching.html</loc>
+    <lastmod>2026-11-18T14:57:48.780Z</lastmod>
   </url>
   <url>
-    <loc>https://drganghe.github.io/quarto-academic-website-template/teaching.html</loc>
-    <lastmod>2026-03-10T14:18:48.124Z</lastmod>
+    <loc>https://cicwi.github.io/AmsterdamImagingHub/posts/symposium26/index.html</loc>
+    <lastmod>2026-11-18T15:13:59.241Z</lastmod>
   </url>
   <url>
-    <loc>https://drganghe.github.io/quarto-academic-website-template/contact.html</loc>
-    <lastmod>2025-02-08T02:43:14.168Z</lastmod>
+    <loc>https://cicwi.github.io/AmsterdamImagingHub/projects.html</loc>
+    <lastmod>2026-11-18T15:13:59.240Z</lastmod>
   </url>
   <url>
-    <loc>https://drganghe.github.io/quarto-academic-website-template/posts/event-title/index.html</loc>
-    <lastmod>2026-03-10T13:09:52.164Z</lastmod>
-  </url>
-  <url>
-    <loc>https://drganghe.github.io/quarto-academic-website-template/index.html</loc>
-    <lastmod>2026-05-06T08:32:07.859Z</lastmod>
-  </url>
-  <url>
-    <loc>https://drganghe.github.io/quarto-academic-website-template/people.html</loc>
-    <lastmod>2026-03-10T10:49:30.475Z</lastmod>
-  </url>
-  <url>
-    <loc>https://drganghe.github.io/quarto-academic-website-template/posts/symposium26/index.html</loc>
-    <lastmod>2026-03-20T10:46:51.904Z</lastmod>
-  </url>
-  <url>
-    <loc>https://drganghe.github.io/quarto-academic-website-template/facilities.html</loc>
-    <lastmod>2026-03-20T11:01:38.581Z</lastmod>
+    <loc>https://cicwi.github.io/AmsterdamImagingHub/people.html</loc>
+    <lastmod>2026-11-18T14:57:48.779Z</lastmod>
   </url>
 </urlset>

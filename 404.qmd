@@ -1,7 +1,7 @@
 ---
-title: Page Unplugged
+title: Page not found
 ---
 
-The page you requested cannot be found (perhaps it was unplugged).
+The page you requested cannot be found.
 
-You may want to try searching to find the page's new plug.
+Try the search box above, or go back to the [home page](/index.qmd).
